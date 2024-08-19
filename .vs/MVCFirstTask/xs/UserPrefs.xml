@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{D85A070B-14CB-4C80-8C8D-7858BB50276E}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Students/Create.cshtml">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Controllers/StudentsController.cs" Line="30" Column="32" />
+      <File FileName="Views/Students/Create.cshtml" Line="28" Column="8" />
+      <File FileName="Views/Students/Update.cshtml" Line="26" Column="14" />
+      <File FileName="Views/Students/Delete.cshtml" Line="23" Column="1" />
+      <File FileName="Views/Students/Index.cshtml" Line="40" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVCFirstTask" expanded="True">
+            <Node name="MVCFirstTask" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Students" expanded="True">
+                  <Node name="Create.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MVCFirstTask PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
